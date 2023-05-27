@@ -1,0 +1,17 @@
+Input Parameter of postman  :-
+
+{
+    "globalOperator": "AND",
+    "pageDto": {
+        "pageNo": 0,
+        "pageSize": 2,
+        "sort": "ASC",
+        "sortByColumn": "id"
+    },
+    "searchRequestDto": [
+        {
+            "column": "name,city",
+            "value": "shivam,jbp"
+        }
+    ]
+}
